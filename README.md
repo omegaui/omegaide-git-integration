@@ -1,5 +1,5 @@
 # omegaide-git-integration
-This is **official repository** of omegaide's default **git-integration** plugin.
+This is the **official repository** of omegaide's default **git-integration** plugin.
 
 **The PLUGIN IS IN ITS FIRST STAGE.**
 
