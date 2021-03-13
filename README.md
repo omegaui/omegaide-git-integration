@@ -8,7 +8,7 @@ This is the **official repository** of omegaide's default **git-integration** pl
 **Only COMMIT,INITIALIZE & PULL Operations are supported.**
 
 
-Use the **JGit** library.
+Uses the **JGit** library.
 
 You may edit this git integration system and can open a pull request.
 
